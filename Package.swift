@@ -1,10 +1,4 @@
-//
-//  Package.swift
-//  CocoaMQTT
-//
-//  Created by Hugh Broome on 11/29/19.
-//  Copyright © 2019 emqtt.io. All rights reserved.
-//
+// swift-tools-version:4.0
 
 import PackageDescription
 
