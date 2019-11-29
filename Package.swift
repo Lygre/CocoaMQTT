@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
 	name: "CocoaMQTT",
 	products: [
-		.library(name: "CocoaMQTT", targets: ["Source"]),
+		.library(name: "CocoaMQTT", targets: ["CocoaMQTT"]),
 	],
 	dependencies: [],
 	targets: [
